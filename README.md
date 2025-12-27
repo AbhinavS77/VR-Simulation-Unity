@@ -43,11 +43,17 @@ Feature complete. No additional levels or content planned at this stage.
 
 ## Screenshots
 
-### Terrain Overview
+### Indian Buildings
 ![Terrain Overview](Screenshots/terrain_overview.png)
 
-### VR Navigation
+### Grass land
 ![VR Navigation](Screenshots/vr_navigation.png)
+
+### Tents
+![VR Navigation](Screenshots/tents.png)
+
+### Sand Road
+![VR Navigation](Screenshots/sand_road.png)
 
 ## Note
 This repository contains **only source code and configuration files**.
