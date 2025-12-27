@@ -38,7 +38,7 @@ Heavy assets, builds, and environment-specific data have been excluded.
 Feature complete. No additional levels or content planned at this stage.
 
 ## Demo
-🎮 Gameplay Video: https://youtu.be/sVvaS-99x7s  
+🎮 Simulation Video: https://drive.google.com/file/d/1vgEyjMBK-w3hZWY4QIiPA1YJ6mKLc5Vm/view?usp=drive_link  
 📦 Portfolio: https://abhinav-s.itch.io/
 
 ## Note
