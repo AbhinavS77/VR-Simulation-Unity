@@ -41,6 +41,14 @@ Feature complete. No additional levels or content planned at this stage.
 🎮 Simulation Video: https://drive.google.com/file/d/1vgEyjMBK-w3hZWY4QIiPA1YJ6mKLc5Vm/view?usp=drive_link  
 📦 Portfolio: https://abhinav-s.itch.io/
 
+## Screenshots
+
+### Terrain Overview
+![Terrain Overview](Screenshots/terrain_overview.png)
+
+### VR Navigation
+![VR Navigation](Screenshots/vr_navigation.png)
+
 ## Note
 This repository contains **only source code and configuration files**.
 All sensitive information, large assets, and proprietary data have been
